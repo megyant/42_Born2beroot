@@ -2,7 +2,7 @@
 
 ## About the project
   
-This project is a part of Milestone 1 of Common Core at 42 school. It aims to teach more on virtualization and server administration.
+This project is a part of Milestone 1 of Common Core at 42 school. It aims to teach more on virtualisation and server administration.
 
 ## Tools and insights
 
